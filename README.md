@@ -16,7 +16,7 @@ GitHub使用总结
 ----
   在新建的分支里面，你修改了一些内容点击 Commit changes 提交即可
   
-4.Open a Pull Request
+4.Open a Pull Request 推送请求
 ------
   当你创建了分支，并在里面修改了，但是你要让原来的Repository拥有者看到你修改的部分，这时候你就开启一个Pull Request<br>
   原来的Repository拥有者就可以看到你修改的部分<br>
