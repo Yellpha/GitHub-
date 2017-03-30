@@ -6,7 +6,7 @@ GitHub使用总结
   READEME.md一般就是对该项目的介绍等等
   
 2.Create a Branch 创建一个分支
-----------
+----
   项目的默认Branch是master
   点击项目之后，在Branch：master上就可以创建自己的分支并命名，然后点击创建即可<br>
   这个分支跟master分支一样，相当于复制了master的分支<br>
