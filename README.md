@@ -11,11 +11,10 @@ GitHub使用总结
   点击项目之后，在Branch：master上就可以创建自己的分支并命名，然后点击创建即可<br>
   这个分支跟master分支一样，相当于复制了master的分支<br>
   然后可以再里面修改你要修改的内容<br>
-  
+  
 3.Make and commit changes
 ----
-  在
-  新建的分支里面，你修改了一些内容点击 Commit changes 提交即可
+  在新建的分支里面，你修改了一些内容点击 Commit changes 提交即可
   
 4.Open a Pull Request
 ------
